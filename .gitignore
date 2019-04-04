@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DesignPatternEssentials
+/chapter01/bin/Debug/netstandard2.0
+/chapter01/obj
+/UI/bin/Debug
+/UI/obj/Debug
